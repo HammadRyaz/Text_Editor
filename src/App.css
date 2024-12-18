@@ -1,0 +1,26 @@
+.editor-btn {
+  background: none;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.editor-btn i {
+  color: #333;
+}
+
+.editor-btn:hover i {
+  color: #007BFF;
+}
+.ql-font-Arial {
+  font-family: Arial, sans-serif;
+}
+
+.ql-font-ArialBlack {
+  font-family: 'Arial Black', sans-serif;
+}
+
+.ql-font-ComicSans {
+  font-family: 'Comic Sans MS', sans-serif;
+}
